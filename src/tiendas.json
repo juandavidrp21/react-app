@@ -1,0 +1,16 @@
+{
+  "email": "ucmadagencyllc@gmail.com",
+  "fullname": "Quintin James Moore",
+  "password": "$pbkdf2-sha256$29000$fo8Rwtgb4zzHOMf43/vfWw$k2XDb8npg.tWgO.QptGck8rqMsYAFg51DSyzF2a2eVs",
+  "permissions": [
+    "transaction_view",
+    "sales_tracker",
+    "dashboard_invoice",
+    "inventory_info",
+    "removals"
+  ],
+  "phone": "(714) 858-9600",
+  "role": "inverter",
+  "store": "SOUTHERN SPECIALTY SALES",
+  "uit": "+1"
+}
